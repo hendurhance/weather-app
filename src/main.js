@@ -1,3 +1,8 @@
+/*
+ *   Copyright (c) 2020 
+ *   All rights reserved.
+ */
+
 import Vue from 'vue'
 import App from './App.vue'
 
